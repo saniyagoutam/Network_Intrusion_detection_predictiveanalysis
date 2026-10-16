@@ -2,7 +2,7 @@
 
 A comparative study on the **NSL-KDD** and **UNSW-NB15** datasets using Random Forest, Support Vector Machine (SVM) and XGBoost.
 
-## Project Overview
+## Project Overview.
 
 This project implements a Machine Learning-based Network Intrusion Detection System (NIDS) and applies the same predictive-modelling workflow to two benchmark datasets.
 
