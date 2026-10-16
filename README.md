@@ -152,9 +152,4 @@ After running each notebook, it produces:
 1. M. Tavallaee, E. Bagheri, W. Lu and A. A. Ghorbani, "A detailed analysis of the KDD CUP 99 data set," *IEEE CISDA*, 2009. (NSL-KDD)
 2. N. Moustafa and J. Slay, "UNSW-NB15: A comprehensive data set for network intrusion detection systems," *MilCIS*, 2015. (UNSW-NB15)
 
-If you use the UNSW-NB15 dataset, please cite the dataset papers as requested on the official dataset page.
 
-## Author
-
-**Saniya Goutam**, B.Tech Computer Science, Symbiosis Institute of Technology, Nagpur
-Course: Predictive Analytics (CA3 Component 2) · Guide: Dr. Deepak Asudani
